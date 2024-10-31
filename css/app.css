@@ -95,7 +95,7 @@ section {
 
 .thumbnail {
  width: 250px; /* Fixed width */
- height: 250px; /* Fixed height */
+ height: 200px; /* Fixed height */
  object-fit: cover; /* Ensures images fill the space without distortion */
  border: 3px solid #777;
  border-radius: 16px;
