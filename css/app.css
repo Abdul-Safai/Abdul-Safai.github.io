@@ -22,20 +22,20 @@ header {
  background: url('../assets/images/Pic_4.jpeg');
  background-size: cover;
  background-position: center;
- position: relative; /* For absolute positioning of title and subtitle */
+ position: relative; /* For absolute positioning */
  color: #fff;
  text-shadow: 2px 2px 3px #333;
  font-family: 'Comfortaa', cursive; /* Heading font */
 }
 
-.title {
+header .title {
  position: absolute;
  left: 20px; 
- top: 200px; /* Adjust this value to move the title up or down */
+ top: 200px; /* Adjust this value to move the title down */
  font-size: 4em;
 }
 
-.subtitle {
+header .subtitle {
  position: absolute; 
  left: 20px; 
  bottom: 80px; /* Move the subtitle up from the bottom */
