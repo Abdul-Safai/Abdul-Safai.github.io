@@ -66,9 +66,9 @@ section {
 
 .aboutParagraph {
  font-family: 'Comfortaa', cursive; /* Preferred font */
- font-size: 1.1em; /* Adjust size as needed */
+ font-size: 1em; /* Adjust size as needed */
  color: #555; /* Paragraph color */
- line-height: 1.6; /* Improve readability */
+ line-height: 1.2; /* Improve readability */
 }
 
 .fancyHeading {
