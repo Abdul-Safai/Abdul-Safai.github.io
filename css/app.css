@@ -31,8 +31,8 @@ header {
 .title {
  position: absolute;
  left: 20px; 
- top: 130px; /* Decrease this value to bring the title down */
- font-size: 3em;
+ top: 250px; /* Decrease this value to bring the title down */
+ font-size: 4em;
 }
 
 .subtitle {
