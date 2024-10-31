@@ -29,21 +29,20 @@ header {
 }
 
 .title {
- position: absolute; /* Position the title */
- left: 20px; /* Adjust as needed */
- bottom: 100px; /* Adjust as needed */
- font-weight: 700; 
- font-size: 4em;
- text-shadow: 2PX 2PX 3PX #333
+ position: absolute;
+ left: 20px; 
+ top: 130px; /* Decrease this value to bring the title down */
+ font-size: 3em;
 }
 
 .subtitle {
- position: absolute; /* Position the subtitle */
- left: 20px; /* Match the title for alignment */
- bottom: 20px; /* Adjust for distance from bottom */
- color: #0f0; /* Subtitle color */
- background: rgba(255, 255, 255, 0.33); /* Optional background */
- padding: 5px; /* Optional padding */
+ position: absolute; 
+ left: 20px; 
+ bottom: 20px; 
+ color: #0f0; 
+ background: rgba(255, 255, 255, 0.33); 
+ padding: 5px; 
+ margin-top: 10px; /* Optional: add margin to move the subtitle down */
 }
 
 section {
