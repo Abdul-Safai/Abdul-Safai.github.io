@@ -32,7 +32,7 @@ header {
  position: absolute; /* Position the title */
  left: 20px; /* Adjust as needed */
  top: 150px; /* Adjust as needed */
- font-weight: bold; 
+ font-weight: 700; 
  font-size: 4em;
  text-shadow: 2PX 2PX 3PX #333
 }
