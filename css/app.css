@@ -94,10 +94,9 @@ section {
 }
 
 .thumbnail {
- width: 300px; /* Adjust width as needed */
- height: auto; /* Maintain aspect ratio */
- max-height: 400px; /* Set a maximum height */
- object-fit: cover; /* Ensure images cover the area without distortion */
+ width: 300px; /* Fixed width */
+ height: 400px; /* Fixed height */
+ object-fit: cover; /* Ensures images fill the space without distortion */
  border: 3px solid #777;
  border-radius: 16px;
  box-shadow: 2px 3px 5px #222;
