@@ -32,7 +32,9 @@ header {
  position: absolute; /* Position the title */
  left: 20px; /* Adjust as needed */
  top: 150px; /* Adjust as needed */
- font-size: 3em;
+ font-weight: bold; 
+ font-size: 4em;
+ text-shadow: 2PX 2PX 3PX #333
 }
 
 .subtitle {
