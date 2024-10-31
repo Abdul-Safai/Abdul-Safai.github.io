@@ -58,6 +58,19 @@ section {
  font-size: 1.2em;
 }
 
+.aboutHeading {
+ font-family: 'Comfortaa', cursive; /* Change this to your preferred font */
+ font-size: 2.5em; /* Adjust size as needed */
+ color: #333; /* Change color if desired */
+}
+
+.aboutParagraph {
+ font-family: 'Tiny5', sans-serif; /* Change this to your preferred font */
+ font-size: 1.2em; /* Adjust size as needed */
+ color: #555; /* Change color if desired */
+ line-height: 1.6; /* Improve readability */
+}
+
 .fancyHeading {
  font-family: 'Comfortaa', cursive; /* Heading font */
  font-weight: 400;
