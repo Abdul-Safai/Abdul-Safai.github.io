@@ -95,13 +95,14 @@ section {
 
 .thumbnail {
  width: 300px; /* Fixed width */
-  height: 300px; /* Fixed height to match width for a square */
-  object-fit: cover; /* Ensures images fill the area without distortion */
-  border: 3px solid #777;
-  border-radius: 16px; /* Optional: rounded corners */
-  box-shadow: 2px 3px 5px #222;
-  margin: 10px; /* Space between images */
+ height: 300px; /* Fixed height for a square */
+ object-fit: cover; /* Ensures images fill the area without distortion */
+ border: 3px solid #777;
+ border-radius: 16px; /* Optional: rounded corners */
+ box-shadow: 2px 3px 5px #222;
+ margin: 10px; /* Space between images */
 }
+
 
 #contact {
  background: #222;
