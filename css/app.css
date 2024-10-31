@@ -22,18 +22,26 @@ header {
  background: url('/Users/abdulazizsafai/Abdul-Safai.github.io/assets/images/Pic_4.jpeg');
  background-size: cover;
  background-position: center;
- text-align: center;
- padding-top: 150px;
- font-size: 3em;
+ position: relative; /* Added for positioning */
  color: #fff;
  text-shadow: 2px 2px 3px #333;
  font-family: 'Comfortaa', cursive; /* Heading font */
 }
 
-header > p {
- color: #0f0;
- margin-top: -25px;
- background: rgba(255, 255, 255, .33);
+.title {
+ position: absolute; /* Position the title */
+ left: 20px; /* Adjust as needed */
+ top: 150px; /* Adjust as needed */
+ font-size: 3em;
+}
+
+.subtitle {
+ position: absolute; /* Position the subtitle */
+ left: 20px; /* Match the title for alignment */
+ bottom: 20px; /* Adjust for distance from bottom */
+ color: #0f0; /* Subtitle color */
+ background: rgba(255, 255, 255, 0.33); /* Optional background */
+ padding: 5px; /* Optional padding */
 }
 
 section {
