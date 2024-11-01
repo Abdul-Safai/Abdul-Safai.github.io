@@ -63,7 +63,7 @@ section {
 
 .aboutHeading {
  font-family: 'Playfair Display', serif; /* About title font */
-    font-size: 1.8em; /* Adjust size as needed */
+    font-size: 1.8em !important; /* Adjust size as needed */
     color: #333; /* About title color */
 }
 
