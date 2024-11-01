@@ -33,6 +33,7 @@ header .title {
  left: 20px; 
  top: 300px !important; /* Adjust this value to move the title down */
  font-size: 3.5em;
+ font-family: 'Lobster', cursive; /* Use the Lobster font */
 }
 
 header .subtitle {
