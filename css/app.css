@@ -32,7 +32,7 @@ header .title {
  position: absolute;
  left: 20px; 
  top: 300px; /* Adjust this value to move the title down */
- font-size: 4em;
+ font-size: 3.5em;
 }
 
 header .subtitle {
