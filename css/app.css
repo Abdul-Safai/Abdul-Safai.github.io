@@ -61,9 +61,10 @@ section {
 }
 
 .aboutHeading {
- font-family: 'Mostserrat',sans-serif; /* Preferred font */
- font-size: 2em; /* Adjust size as needed */
- color: #333; /* Heading color */
+ font-family: 'Montserrat', sans-serif; /* Use Montserrat for the About title */
+ font-size: 2.5em; /* Adjust size as needed */
+ color: #333; /* Change color if desired */
+ margin-bottom: 20px; /* Optional: add margin for spacing */
 }
 
 .aboutParagraph {
