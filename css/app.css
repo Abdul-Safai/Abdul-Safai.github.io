@@ -31,7 +31,7 @@ header {
 header .title {
  position: absolute;
  left: 20px; 
- top: 350px; /* Adjust this value to move the title down */
+ top: 320px; /* Adjust this value to move the title down */
  font-size: 4em;
 }
 
