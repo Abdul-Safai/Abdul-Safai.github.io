@@ -31,14 +31,14 @@ header {
 header .title {
  position: absolute;
  left: 20px; 
- top: 200px; /* Adjust this value to move the title down */
+ top: 350px; /* Adjust this value to move the title down */
  font-size: 4em;
 }
 
 header .subtitle {
  position: absolute; 
  left: 20px; 
- bottom: 80px; /* Move the subtitle up from the bottom */
+ bottom: 20px; /* Move the subtitle up from the bottom */
  color: #0f0; 
  background: rgba(255, 255, 255, 0.33); 
  padding: 5px; 
